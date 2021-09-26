@@ -1,10 +1,10 @@
 # Projeto-com-Feedback-DSA
 
 
-## Esse projeto faz parte da Formação de Cientista de Dados da Data Science Academy
+##**Esse projeto faz parte da Formação de Cientista de Dados da Data Science Academy**
 
 
-## Prevendo o Nível de Satisfação dos Clientes do Banco ##
+##*Prevendo o Nível de Satisfação dos Clientes do Banco*
 
 
 O objetivo desse projeto é prever antecipadamente os clientes que estão insatisfeitos já no início do relacionamento, 
