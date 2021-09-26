@@ -8,11 +8,18 @@ O objetivo desse projeto é prever antecipadamente os clientes que estão insati
 e assim adotar medidas proativas, melhorando assim o nível de satisfação dos mesmos e evitando a perda do cliente. 
 
 Projeto
+
 1 - Definir o problema de negócio
+
 2 - Realizar a coleta dos dados
+
 3 - Preparar os dados
+
 4 - Escolher o algoritmo
+
 5 - Treinar o modelo
+
 6 - Avaliar a acurácia (mínimo de 70%)
+
 
 Dataset - https://www.kaggle.com/c/santander-customer-satisfaction
