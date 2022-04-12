@@ -77,7 +77,12 @@ Dessa forma o modelo seria enviezado. Sendo assim, foi aplicado o ***Near Miss**
 Após a etapa de análise e preparação de dados concluída, seguimos para a fase de escolha e treinamento do algoritmo. Para o projeto em questão escolhi o modelo de Regressão Logística por sua simples aplicação e por não necessitar de grandes quantidades de recursos computacionais. 
 &nbsp;
 
-O resultado foi de 81.440% de acurácia. O modelo já 
+&nbsp;
+O resultado do modelo foi de 81.440% de acurácia, já superior a meta para o desafio que era de 70%.
+&nbsp;
 
+&nbsp;
+De qualquer forma existia a possibilidade de melhoria da performance do modelo. Então, foram aplicadas técnicas de Normalização e Padronização nos dados e reprocessamos o modelo.
+&nbsp;
 
-
+E assim atingimos o resultado de 83.490% de acurácia.
