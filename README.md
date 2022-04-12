@@ -1,11 +1,12 @@
 # Projeto-com-Feedback-DSA
 
 &nbsp;
-#### Esse projeto faz parte da Formação de Cientista de Dados da Data Science Academy  
-  
+Esse projeto faz parte da Formação de Cientista de Dados da Data Science Academy  
 &nbsp;
+
 *Nota: Esse é um projeto fictício, de qualquer forma muito semelhante ao real problema enfrentado pelas organizações diariamente.*  
 &nbsp;
+
 
 ## Prevendo o Nível de Satisfação dos Clientes do Banco  
 &nbsp;
@@ -22,13 +23,13 @@
 
 
 &nbsp;
-#### Problema de negócio  
+## Problema de negócio  
 &nbsp;
 
 Reduzir o número de clientes que deixam o banco no início do relacionamento.  
 
 &nbsp;
-#### Objetivo
+## Objetivo
 
 &nbsp;
 O objetivo desse projeto é prever antecipadamente os clientes que estão insatisfeitos já no início do relacionamento,   
@@ -37,7 +38,7 @@ e assim adotar medidas proativas, melhorando assim o nível de satisfação dos 
 Acurácia mínima requerida: 70%  
 
 &nbsp;
-#### Etapas do Projeto:
+## Etapas do Projeto:
 
 1 - Definir o problema de negócio
 
@@ -57,7 +58,7 @@ Acurácia mínima requerida: 70%
 
 
 &nbsp;
-#### Resultados Obtidos
+## Resultados Obtidos
 
 
 
