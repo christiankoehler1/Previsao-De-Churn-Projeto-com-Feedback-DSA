@@ -78,20 +78,20 @@ Após a etapa de análise e preparação de dados concluída, seguimos para a fa
 &nbsp;
 
 &nbsp;
-O resultado do modelo foi de 81.440% de acurácia, já superior a meta para o desafio que era de 70%.
+O resultado do modelo foi de 81.440% de acurácia, já superior a meta para o desafio proposto que é de 70%.
 &nbsp;
 
 &nbsp;
-De qualquer forma existia a possibilidade de melhoria da performance do modelo. Por conta disso, foram aplicadas técnicas de Normalização e Padronização nos dados e o modelo reprocessado.
+De qualquer forma existia a possibilidade de melhoria da performance do modelo. Por conta disso, foram aplicadas técnicas de *Normalização* e *Padronização* aos dados e o modelo novamente processado.
 &nbsp;
 
 &nbsp;
-E assim atingimos o resultado para o modelo de 83.490% de acurácia.
+E assim foi atingida a acurácia de 83.490% para o modelo.
 &nbsp;
 
 &nbsp;
 ## Próximos Passos:
-- Aplicando a metodologia CRISP para projetos (modelo cíclico).
+- Utilizando a metodologia CRISP para projetos (modelo cíclico).
     - Apresentar novas features aos dados.
     - Aplicarmos outros modelos para melhorar a acurácia.    
 &nbsp;
