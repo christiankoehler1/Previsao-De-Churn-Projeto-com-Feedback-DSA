@@ -11,7 +11,7 @@
 
 
 
-## Prevendo o Nível de Satisfação dos Clientes do Banco*  
+## Prevendo o Nível de Satisfação dos Clientes do Banco  
 
 
 
@@ -31,13 +31,13 @@
 
 
 
-**Problema de negócio**  
+#### Problema de negócio  
 
 
 Reduzir o número de clientes que deixam o banco no início do relacionamento.  
 
 
-**Objetivo**  
+#### Objetivo
 
 
 O objetivo desse projeto é prever antecipadamente os clientes que estão insatisfeitos já no início do relacionamento,   
@@ -46,7 +46,7 @@ e assim adotar medidas proativas, melhorando assim o nível de satisfação dos 
 Acurácia mínima requerida: 70%  
 
 
-**Etapas do Projeto:**
+#### Etapas do Projeto:
 
 1 - Definir o problema de negócio
 
@@ -66,7 +66,7 @@ Dataset - https://www.kaggle.com/c/santander-customer-satisfaction
 
 
 
-**Resultados Obtidos**
+#### Resultados Obtidos
 
 
 
