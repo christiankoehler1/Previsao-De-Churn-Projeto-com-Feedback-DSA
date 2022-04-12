@@ -5,8 +5,8 @@
   
 &nbsp;
 *Nota: Esse é um projeto fictício, de qualquer forma muito semelhante ao real problema enfrentado pelas organizações diariamente.*  
-
 &nbsp;
+
 ## Prevendo o Nível de Satisfação dos Clientes do Banco  
 &nbsp;
 
