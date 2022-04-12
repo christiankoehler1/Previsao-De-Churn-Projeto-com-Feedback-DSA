@@ -60,11 +60,14 @@ Acurácia mínima requerida: 70%
 &nbsp;
 Com o problema de negócio já definido, a fase de coleta de dados se fez via importação de dados em arquivo .csv.
 &nbsp;
+&nbsp;
 Na etapa de análise e preparação dos dados foi identificado que a base de clientes estava desbalanceada, sendo apenas quase 4% de clientes insatisfeitos.
 Dessa forma o modelo seria enviezado. Sendo assim, foi aplicado o ***Near Miss*** que é algoritmo de undersampling que consiste em reduzir de forma aleatória os exemplos da classe majoritária, porém ele seleciona os exemplos com base na distância.
+&nbsp;
 
-
-
+&nbsp;
+![image](https://user-images.githubusercontent.com/66925229/163063511-0e7c3b46-9b09-4a54-b62a-265448df491a.png)
+&nbsp;
 
 
 Para esse projeto o algoritmo escolhido foi a Regressão Logística por sua simples aplicação e por não necessitar de grandes 
