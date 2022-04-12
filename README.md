@@ -82,7 +82,20 @@ O resultado do modelo foi de 81.440% de acurácia, já superior a meta para o de
 &nbsp;
 
 &nbsp;
-De qualquer forma existia a possibilidade de melhoria da performance do modelo. Então, foram aplicadas técnicas de Normalização e Padronização nos dados e reprocessamos o modelo.
+De qualquer forma existia a possibilidade de melhoria da performance do modelo. Por conta disso, foram aplicadas técnicas de Normalização e Padronização nos dados e o modelo reprocessado.
 &nbsp;
 
-E assim atingimos o resultado de 83.490% de acurácia.
+&nbsp;
+E assim atingimos o resultado para o modelo de 83.490% de acurácia.
+&nbsp;
+
+&nbsp;
+## Próximos Passos:
+- Aplicando a metodologia CRISP para projetos (modelo cíclico).
+    - Apresentar novas features aos dados.
+    - Aplicarmos outros modelos para melhorar a acurácia.    
+&nbsp;
+
+
+
+
