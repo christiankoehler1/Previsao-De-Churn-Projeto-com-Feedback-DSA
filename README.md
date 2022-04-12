@@ -54,10 +54,21 @@ Acurácia mínima requerida: 70%
 &nbsp;
 **Dataset:** https://www.kaggle.com/c/santander-customer-satisfaction
 
+
 &nbsp;
 ## Resultados Obtidos
+&nbsp;
+Com o problema de negócio já definido, a fase de coleta de dados se fez via importação de dados em arquivo .csv.
+&nbsp;
+Na etapa de análise e preparação dos dados foi identificado que a base de clientes estava desbalanceada, sendo apenas quase 4% de clientes insatisfeitos.
+Dessa forma o modelo seria enviezado. Sendo assim, foi aplicado o ***Near Miss*** que é algoritmo de undersampling que consiste em reduzir de forma aleatória os exemplos da classe majoritária, porém ele seleciona os exemplos com base na distância.
 
-Após todas as etapas concluídas chegamos a uma acurácia de 
+
+
+
+
+Para esse projeto o algoritmo escolhido foi a Regressão Logística por sua simples aplicação e por não necessitar de grandes 
+quantidades de recursos computacionais. 
 
 
 
