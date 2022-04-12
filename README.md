@@ -2,10 +2,10 @@
 
 
 #### Esse projeto faz parte da Formação de Cientista de Dados da Data Science Academy  
-
-
-
-
+  
+  
+  
+  
 *Nota: Esse é um projeto fictício, de qualquer forma muito semelhante ao real problema enfrentado pelas organizações diariamente.*  
 
 
