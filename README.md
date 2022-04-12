@@ -5,7 +5,7 @@
 
 *Prevendo o Nível de Satisfação dos Clientes do Banco*
 
-!(C:\Users\chris\Documents\Tech\CursoDsaBigDataRealTimeAnalyticsComPythonSpark2.0\12 - Projetos com Feedback\img\santander_custsat_red.png)
+![](C:\Users\chris\Documents\Tech\CursoDsaBigDataRealTimeAnalyticsComPythonSpark2.0\12 - Projetos com Feedback\img\santander_custsat_red.png)
 
 
 O objetivo desse projeto é prever antecipadamente os clientes que estão insatisfeitos já no início do relacionamento, 
