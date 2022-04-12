@@ -3,8 +3,9 @@
 
 **Esse projeto faz parte da Formação de Cientista de Dados da Data Science Academy**
 
-
 *Prevendo o Nível de Satisfação dos Clientes do Banco*
+
+!(C:\Users\chris\Documents\Tech\CursoDsaBigDataRealTimeAnalyticsComPythonSpark2.0\12 - Projetos com Feedback\img\santander_custsat_red.png)
 
 
 O objetivo desse projeto é prever antecipadamente os clientes que estão insatisfeitos já no início do relacionamento, 
@@ -12,7 +13,7 @@ e assim adotar medidas proativas, melhorando assim o nível de satisfação dos 
 
 
 
-** Etapas do Projeto:**
+**Etapas do Projeto:**
 
 1 - Definir o problema de negócio
 
