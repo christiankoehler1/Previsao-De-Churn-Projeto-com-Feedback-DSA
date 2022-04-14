@@ -91,7 +91,7 @@ E assim foi atingida a acurácia de 83.490% para o modelo.
 
 &nbsp;
 ## Próximos Passos:
-- Utilizando a metodologia CRISP para projetos (modelo cíclico).
+- Aplicar a metodologia CRISP para projetos (modelo cíclico).
     - Apresentar novas features aos dados.
     - Aplicarmos outros modelos para melhorar a acurácia.    
 &nbsp;
