@@ -30,8 +30,9 @@ Reduzir o número de clientes que deixam o banco no início do relacionamento.
 &nbsp;
 ## Objetivo
 &nbsp;
-O objetivo desse projeto é prever antecipadamente os clientes que estão insatisfeitos já no início do relacionamento, 
-e assim adotar medidas proativas, melhorando assim o nível de satisfação dos mesmos e evitando a perda do cliente.   
+O objetivo do projeto é criar um modelo de previsão de Churn, possibilitando assim, prever antecipadamente os clientes que 
+estão insatisfeitos já no início do relacionamento, adotando medidas proativas e melhorando assim o nível de satisfação dos mesmos, 
+evitando a perda do cliente.  
 
 Acurácia mínima requerida: 70%  
 
